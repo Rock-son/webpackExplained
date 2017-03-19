@@ -60,7 +60,7 @@ const mapsAndSets = () => {
 }
 
 // modules();
-// newSyntax();
+ newSyntax();
 // functionsAndObjects();
 // promises();
 // classes();
@@ -68,4 +68,4 @@ const mapsAndSets = () => {
 // generator();
 // promisesWithGenerators();
 // spreadOnObjects();
-reactApp();
+//reactApp();
